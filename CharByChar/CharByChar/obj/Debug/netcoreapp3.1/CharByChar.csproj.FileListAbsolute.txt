@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\PROGRAMS\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.exe
+C:\Users\LENOVO\Desktop\PROGRAMS\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.deps.json
+C:\Users\LENOVO\Desktop\PROGRAMS\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.runtimeconfig.json
+C:\Users\LENOVO\Desktop\PROGRAMS\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\PROGRAMS\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.dll
+C:\Users\LENOVO\Desktop\PROGRAMS\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.pdb
+C:\Users\LENOVO\Desktop\PROGRAMS\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\PROGRAMS\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\PROGRAMS\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\PROGRAMS\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\PROGRAMS\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.dll
+C:\Users\LENOVO\Desktop\PROGRAMS\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.pdb
+C:\Users\LENOVO\Desktop\PROGRAMS\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.genruntimeconfig.cache
